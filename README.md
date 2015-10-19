@@ -18,3 +18,5 @@ Correctness & Mistake Percentage...
 your self with previous time and see whether or not you've improved your typing skills.
 
 - Exit typing by pressing ctrl + z.
+
+![alt tag](http://i.imgur.com/HA6wp0B.png)
