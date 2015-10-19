@@ -1,0 +1,25 @@
+
+X==========================================X
+
+	FILE NAME: Test.txt
+
+	DATE-TIME: Sun Oct 18 20:47:21 2015
+
+
+	MISTAKES MADE: 1
+
+	TIME NEEDED: 2.744 Seconds.
+
+	SPEED(CPS): 8.38
+
+	SPEED(WPM): 109.3
+
+	WORDS IN FILE: 5
+
+	CHARCTERS IN FILE: 23
+
+	CORRECTNESS PERCENTAGE: 95.65%
+
+	MISTAKE PERCENTAGE: 4.35%
+
+X==========================================X

@@ -1,0 +1,22 @@
+﻿Build started 10/18/2015 8:37:49 PM.
+     1>Project "c:\Users\pc\documents\visual studio 2015\Projects\TypingFreakConsole\TypingFreakConsole\TypingFreakConsole.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp TouchTyping.cpp
+         main.cpp
+         TouchTyping.cpp
+     1>TouchTyping.cpp(16): warning C4018: '<': signed/unsigned mismatch
+     1>TouchTyping.cpp(115): warning C4018: '<': signed/unsigned mismatch
+     1>TouchTyping.cpp(248): warning C4244: 'argument': conversion from 'float' to 'const time_t', possible loss of data
+     1>TouchTyping.cpp(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\pc\documents\visual studio 2015\Projects\TypingFreakConsole\Release\TypingFreakConsole.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\pc\documents\visual studio 2015\Projects\TypingFreakConsole\Release\TypingFreakConsole.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\pc\documents\visual studio 2015\Projects\TypingFreakConsole\Release\TypingFreakConsole.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\TouchTyping.obj
+         Generating code
+         All 331 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         TypingFreakConsole.vcxproj -> c:\users\pc\documents\visual studio 2015\Projects\TypingFreakConsole\Release\TypingFreakConsole.exe
+     1>Done Building Project "c:\Users\pc\documents\visual studio 2015\Projects\TypingFreakConsole\TypingFreakConsole\TypingFreakConsole.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.52
